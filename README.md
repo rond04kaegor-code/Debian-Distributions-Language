@@ -1,2 +1,2 @@
-# Debian-Distributions-Language
+# Eng. Debian Distributions Language Рус. Язык Дистрибутивов Debian Армянский. Debian բաշխման լեզու
 **Этот язык программирования создан для DEBIAN и других дистрибутивах на DEBIAN.** Имеет разные команды и написан на C++. **Лицензия языка GPL v3!**
