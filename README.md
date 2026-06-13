@@ -1,6 +1,6 @@
 # DDLanguage (Debian Distributions Language)
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/)
 
 **English:**  
 DDLanguage is a programming language created specifically for Debian and Debian-based distributions. It features a simple, Python-like syntax, static typing, and native compilation through C++. It includes built-in libraries for GTK3 graphics (DDLGraphic) and a full web browser engine (DDLBrowser).  
