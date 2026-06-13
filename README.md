@@ -3,7 +3,10 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/)
 
 <div align="center">
-  <img src="logo/logo-language.png" alt="DDLanguage Logo" width="256">
+  <img src="logo/logo-language.png" alt="DDLanguage Logo" width="489">
+</div>
+<div align="center">
+  <img src="logo/univer.png" alt="DDLanguage Universal" width="256">
 </div>
 
 **English:**  
