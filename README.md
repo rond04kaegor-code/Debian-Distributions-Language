@@ -1,6 +1,6 @@
 # DDLanguage (Debian Distributions Language)
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/) [![Language: DDL](https://img.shields.io/badge/Language-DDL-purple.SVG)]()
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/)
 
 <div align="center">
   <img src="logo/logo-language.png" alt="DDLanguage Logo" width="256">
