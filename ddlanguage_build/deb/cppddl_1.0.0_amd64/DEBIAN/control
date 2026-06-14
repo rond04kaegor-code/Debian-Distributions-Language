@@ -1,0 +1,8 @@
+Package: cppddl
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: amd64
+Depends: libc6, libstdc++6, g++, libgtk-3-0, libgtk-3-dev, libcairo2, libwebkit2gtk-4.1-0 | libwebkit2gtk-4.0-37, pkg-config, build-essential
+Maintainer: DDLanguage Team
+Description: DDLanguage v1.0 - Easiest programming language
