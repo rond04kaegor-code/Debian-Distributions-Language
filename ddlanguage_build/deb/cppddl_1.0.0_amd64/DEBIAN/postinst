@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "DDLanguage v1.0 | cppddl file.ddl | cppddl --export file.ddl"
