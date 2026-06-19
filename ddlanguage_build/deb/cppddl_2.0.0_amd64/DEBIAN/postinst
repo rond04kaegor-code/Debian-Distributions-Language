@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "DDLanguage v2.0 | 12 Libraries | DDLTerminal + DDLGUI | GNU GPL v3.0"
+echo "Usage: cppddl file.ddl"
+echo "Export: cppddl --export file.ddl [CustomName]"

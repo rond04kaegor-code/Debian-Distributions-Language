@@ -1,0 +1,14 @@
+Package: cppddl
+Version: 2.0.0
+Section: devel
+Priority: optional
+Architecture: amd64
+Depends: libc6, libstdc++6, g++, libgtk-3-0, libgtk-3-dev, libcairo2, libvte-2.91-0, libvte-2.91-dev, libwebkit2gtk-4.1-0 | libwebkit2gtk-4.0-37, libcurl4, libjsoncpp25 | libjsoncpp24, libsqlite3-0, libssl3, libzstd1, libopencv-core406 | libopencv-core405, pkg-config, build-essential
+Maintainer: DDLanguage Team
+Description: DDLanguage v2.0 — 12 Libraries, DDLTerminal + DDLGUI
+ DDLTerminal: Full Linux terminal emulator via VTE.
+ DDLGUI: GTK3 GUI widgets.
+ Also: DDLBrowser, DDLNet, DDLFile, DDLJson, DDLDatabase,
+ DDLCrypto, DDLCompress, DDLLog, DDLImage.
+ Strictness: Rust^2873737377363636363 × ∞.
+ Custom .deb naming support.
